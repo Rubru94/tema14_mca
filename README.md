@@ -14,6 +14,4 @@ blablbalbla
 
 blablabla
 
-## Quinta sección 
-
-rebase blablabla
+## biblio
